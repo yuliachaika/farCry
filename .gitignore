@@ -1,0 +1,14 @@
+
+plugins/font-awesome/\.DS_Store
+
+plugins/\.DS_Store
+
+assets/src/\.DS_Store
+
+assets/img/\.DS_Store
+
+assets/dist/\.DS_Store
+
+assets/\.DS_Store
+
+\.DS_Store
